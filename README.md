@@ -10,3 +10,5 @@ const array = [
 ];
 // result: ["apple", "banana", "watermelon"]
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
